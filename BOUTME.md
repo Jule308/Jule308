@@ -7,8 +7,13 @@
 - 🚫 Pronouns: irrelevant
 - ⚡ Fun fact 1) I find myself very funny (sometimes;))
 - 😀 Fun Fact 2) I always thought I wasnt beginner level Windows User till I started my Education....I feel I dont have a clue about nothing
+- 🐾 Cat Person or Dog Lover: Im going for the Meow 🐈
 
 <!---
 Jule308/Jule308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+🦋 IT People Love Animals 🦋
+🐧 Tux @ Linux OS
+🐬 Smiley Shark @ Wireshark
+🦭 Sweet @ Docker 
+🦊 Da Fox @ Firefox
